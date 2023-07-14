@@ -4,7 +4,10 @@ import * as Bar from "bar/src/Bar.bs.mjs";
 
 var a = Bar.function1(undefined);
 
+var b = Bar.function2(undefined);
+
 export {
   a ,
+  b ,
 }
 /* a Not a pure module */

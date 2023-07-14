@@ -1,3 +1,3 @@
 let a = Bar.function1()
 
-let b = Bar.function2()
+// let b = Bar.function2()
