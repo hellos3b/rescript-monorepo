@@ -1,0 +1,17 @@
+{
+  "name": "bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:res": "rescript build -w",
+    "build": "rescript"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rescript/core": "^0.4.0",
+    "rescript": "^10.1.4"
+  }
+}
